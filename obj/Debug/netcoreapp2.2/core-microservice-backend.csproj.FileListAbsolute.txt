@@ -1,0 +1,11 @@
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\bin\Debug\netcoreapp2.2\core-microservice-backend.deps.json
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\bin\Debug\netcoreapp2.2\core-microservice-backend.runtimeconfig.json
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\bin\Debug\netcoreapp2.2\core-microservice-backend.runtimeconfig.dev.json
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\bin\Debug\netcoreapp2.2\core-microservice-backend.dll
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.csprojAssemblyReference.cache
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.csproj.CoreCompileInputs.cache
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.RazorAssemblyInfo.cache
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.RazorAssemblyInfo.cs
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.AssemblyInfoInputs.cache
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.AssemblyInfo.cs
+D:\DotNetDev\PRODUCT\ProdTest\New\core-microservice-backend\obj\Debug\netcoreapp2.2\core-microservice-backend.RazorTargetAssemblyInfo.cache
